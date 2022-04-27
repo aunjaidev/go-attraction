@@ -1,0 +1,4 @@
+server:
+  port: 8081
+  serviceName: GoAttractionPlace
+  httpLog: localhost:19100/set
